@@ -1,0 +1,1 @@
+FarmoTrade is a platform that connects farmers directly with buyers, removing middlemen. It helps farmers get better prices for their products and allows buyers to purchase fresh goods at lower costs. It also supports fair trade, transparency, and a more efficient agricultural system.
